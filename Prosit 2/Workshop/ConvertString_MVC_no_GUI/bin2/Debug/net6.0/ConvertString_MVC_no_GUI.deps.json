@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConvertString_MVC_no_GUI/1.0.0": {
+        "runtime": {
+          "ConvertString_MVC_no_GUI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConvertString_MVC_no_GUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

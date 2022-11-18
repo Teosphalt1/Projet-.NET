@@ -1,0 +1,15 @@
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 2\Workshop\ConvertString_MVC_no_GUI\bin\Debug\net6.0\ConvertString_MVC_no_GUI.exe
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 2\Workshop\ConvertString_MVC_no_GUI\bin\Debug\net6.0\ConvertString_MVC_no_GUI.deps.json
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 2\Workshop\ConvertString_MVC_no_GUI\bin\Debug\net6.0\ConvertString_MVC_no_GUI.runtimeconfig.json
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 2\Workshop\ConvertString_MVC_no_GUI\bin\Debug\net6.0\ConvertString_MVC_no_GUI.dll
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 2\Workshop\ConvertString_MVC_no_GUI\bin\Debug\net6.0\ConvertString_MVC_no_GUI.pdb
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 2\Workshop\ConvertString_MVC_no_GUI\obj\Debug\net6.0\ConvertString_MVC_no_GUI.csproj.AssemblyReference.cache
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 2\Workshop\ConvertString_MVC_no_GUI\obj\Debug\net6.0\ConvertString_MVC_no_GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 2\Workshop\ConvertString_MVC_no_GUI\obj\Debug\net6.0\ConvertString_MVC_no_GUI.AssemblyInfoInputs.cache
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 2\Workshop\ConvertString_MVC_no_GUI\obj\Debug\net6.0\ConvertString_MVC_no_GUI.AssemblyInfo.cs
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 2\Workshop\ConvertString_MVC_no_GUI\obj\Debug\net6.0\ConvertString_MVC_no_GUI.csproj.CoreCompileInputs.cache
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 2\Workshop\ConvertString_MVC_no_GUI\obj\Debug\net6.0\ConvertString_MVC_no_GUI.dll
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 2\Workshop\ConvertString_MVC_no_GUI\obj\Debug\net6.0\refint\ConvertString_MVC_no_GUI.dll
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 2\Workshop\ConvertString_MVC_no_GUI\obj\Debug\net6.0\ConvertString_MVC_no_GUI.pdb
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 2\Workshop\ConvertString_MVC_no_GUI\obj\Debug\net6.0\ConvertString_MVC_no_GUI.genruntimeconfig.cache
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 2\Workshop\ConvertString_MVC_no_GUI\obj\Debug\net6.0\ref\ConvertString_MVC_no_GUI.dll
