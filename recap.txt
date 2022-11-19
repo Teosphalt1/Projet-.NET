@@ -1,0 +1,37 @@
+Logiciel Console
+
+5 travaux de sauvegarde(on ne sait pas ce que c'est il faudra demander)(1 travail de sauvegarde = une sauvegarde)
+(est ce que le folder ou le file source sont définis statiquement dans le code ou bien l'user choisi)
+
+un travail de sauvegarde est défini par:
+-un nom
+-un répertoire source : "D:\\projet_2\\TEST\\source1\\rapport.pdf"
+-un répertoire cible : "E:\\SAVE\\TEST\\source1\\rapport.pdf"
+-type complet, différentiel (complet = on sauvegarde tout, différentiel = on sauvegarde que les trucs modifiés depuis la derniere sauvegarde)
+
+Logiciel en français et en anglais (design pattern)
+
+User peut demander d'executer un ou plusieurs travaux de sauvegarde
+
+doit avoir un fichier log avec:
+-horodatage
+-nom
+-source
+-destination
+-size
+-temps pris (<0 si error)
+
+doit avoir un fichier state en temps réel:
+-horodatage
+-nom
+-etat(actif, non actif)
+si actif:
+	-nombre de files à save total
+	-size totale
+	-la progression:
+		-nombre de files restant
+		-size left
+		-source du file en cours de save
+		-destination
+
+Choisir ou enregistrer log et state et les formater en json

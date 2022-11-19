@@ -1,0 +1,15 @@
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 3\StrategyPatter,\bin\Debug\net6.0\StrategyPatter,.exe
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 3\StrategyPatter,\bin\Debug\net6.0\StrategyPatter,.deps.json
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 3\StrategyPatter,\bin\Debug\net6.0\StrategyPatter,.runtimeconfig.json
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 3\StrategyPatter,\bin\Debug\net6.0\StrategyPatter,.dll
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 3\StrategyPatter,\bin\Debug\net6.0\StrategyPatter,.pdb
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 3\StrategyPatter,\obj\Debug\net6.0\StrategyPatter,.csproj.AssemblyReference.cache
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 3\StrategyPatter,\obj\Debug\net6.0\StrategyPatter,.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 3\StrategyPatter,\obj\Debug\net6.0\StrategyPatter,.AssemblyInfoInputs.cache
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 3\StrategyPatter,\obj\Debug\net6.0\StrategyPatter,.AssemblyInfo.cs
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 3\StrategyPatter,\obj\Debug\net6.0\StrategyPatter,.csproj.CoreCompileInputs.cache
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 3\StrategyPatter,\obj\Debug\net6.0\StrategyPatter,.dll
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 3\StrategyPatter,\obj\Debug\net6.0\refint\StrategyPatter,.dll
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 3\StrategyPatter,\obj\Debug\net6.0\StrategyPatter,.pdb
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 3\StrategyPatter,\obj\Debug\net6.0\StrategyPatter,.genruntimeconfig.cache
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 3\StrategyPatter,\obj\Debug\net6.0\ref\StrategyPatter,.dll
