@@ -1,0 +1,15 @@
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 3\CompleteSave\bin\Debug\net6.0\CompleteSave.exe
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 3\CompleteSave\bin\Debug\net6.0\CompleteSave.deps.json
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 3\CompleteSave\bin\Debug\net6.0\CompleteSave.runtimeconfig.json
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 3\CompleteSave\bin\Debug\net6.0\CompleteSave.dll
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 3\CompleteSave\bin\Debug\net6.0\CompleteSave.pdb
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 3\CompleteSave\obj\Debug\net6.0\CompleteSave.csproj.AssemblyReference.cache
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 3\CompleteSave\obj\Debug\net6.0\CompleteSave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 3\CompleteSave\obj\Debug\net6.0\CompleteSave.AssemblyInfoInputs.cache
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 3\CompleteSave\obj\Debug\net6.0\CompleteSave.AssemblyInfo.cs
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 3\CompleteSave\obj\Debug\net6.0\CompleteSave.csproj.CoreCompileInputs.cache
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 3\CompleteSave\obj\Debug\net6.0\CompleteSave.dll
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 3\CompleteSave\obj\Debug\net6.0\refint\CompleteSave.dll
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 3\CompleteSave\obj\Debug\net6.0\CompleteSave.pdb
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 3\CompleteSave\obj\Debug\net6.0\CompleteSave.genruntimeconfig.cache
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 3\CompleteSave\obj\Debug\net6.0\ref\CompleteSave.dll

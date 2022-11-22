@@ -1,0 +1,15 @@
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 3\DifferentialSave\bin\Debug\net6.0\DifferentialSave.exe
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 3\DifferentialSave\bin\Debug\net6.0\DifferentialSave.deps.json
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 3\DifferentialSave\bin\Debug\net6.0\DifferentialSave.runtimeconfig.json
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 3\DifferentialSave\bin\Debug\net6.0\DifferentialSave.dll
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 3\DifferentialSave\bin\Debug\net6.0\DifferentialSave.pdb
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 3\DifferentialSave\obj\Debug\net6.0\DifferentialSave.csproj.AssemblyReference.cache
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 3\DifferentialSave\obj\Debug\net6.0\DifferentialSave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 3\DifferentialSave\obj\Debug\net6.0\DifferentialSave.AssemblyInfoInputs.cache
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 3\DifferentialSave\obj\Debug\net6.0\DifferentialSave.AssemblyInfo.cs
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 3\DifferentialSave\obj\Debug\net6.0\DifferentialSave.csproj.CoreCompileInputs.cache
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 3\DifferentialSave\obj\Debug\net6.0\DifferentialSave.dll
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 3\DifferentialSave\obj\Debug\net6.0\refint\DifferentialSave.dll
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 3\DifferentialSave\obj\Debug\net6.0\DifferentialSave.pdb
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 3\DifferentialSave\obj\Debug\net6.0\DifferentialSave.genruntimeconfig.cache
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 3\DifferentialSave\obj\Debug\net6.0\ref\DifferentialSave.dll

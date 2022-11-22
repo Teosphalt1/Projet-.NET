@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3skpmyILyy16ghankrq+x2atQgF5+jgIke7JiSfNIPGJ4EulvEJ4mS1RofpwL8FpNBQV/8yh3ueTaZMIow1S6g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\teosp\\OneDrive\\Bureau\\A3\\Projet .NET\\Prosit 3\\tutoJson\\tutoJson.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\teosp\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

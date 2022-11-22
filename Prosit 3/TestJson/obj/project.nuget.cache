@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lxhhD8qmu6ht8XvkjRMLyqWSqCrJjxfG7Y5Mj3+HlQVixvjH61vdZdHRM9+YlYquGslWTmRsj+nXJ7ie5mFogg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\teosp\\OneDrive\\Bureau\\A3\\Projet .NET\\Prosit 3\\TestJson\\TestJson.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\teosp\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\teosp\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 3\tutoJson\bin\Debug\net6.0\tutoJson.exe
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 3\tutoJson\bin\Debug\net6.0\tutoJson.deps.json
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 3\tutoJson\bin\Debug\net6.0\tutoJson.runtimeconfig.json
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 3\tutoJson\bin\Debug\net6.0\tutoJson.dll
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 3\tutoJson\bin\Debug\net6.0\tutoJson.pdb
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 3\tutoJson\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 3\tutoJson\obj\Debug\net6.0\tutoJson.csproj.AssemblyReference.cache
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 3\tutoJson\obj\Debug\net6.0\tutoJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 3\tutoJson\obj\Debug\net6.0\tutoJson.AssemblyInfoInputs.cache
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 3\tutoJson\obj\Debug\net6.0\tutoJson.AssemblyInfo.cs
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 3\tutoJson\obj\Debug\net6.0\tutoJson.csproj.CoreCompileInputs.cache
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 3\tutoJson\obj\Debug\net6.0\tutoJson.csproj.CopyComplete
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 3\tutoJson\obj\Debug\net6.0\tutoJson.dll
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 3\tutoJson\obj\Debug\net6.0\refint\tutoJson.dll
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 3\tutoJson\obj\Debug\net6.0\tutoJson.pdb
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 3\tutoJson\obj\Debug\net6.0\tutoJson.genruntimeconfig.cache
+C:\Users\teosp\OneDrive\Bureau\A3\Projet .NET\Prosit 3\tutoJson\obj\Debug\net6.0\ref\tutoJson.dll
